@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.9e88f280-1512-11ee-8aa1-c0e434f79936.jpg</filename>
+	<path>C:\Users\User\Desktop\dpns-project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.9e88f280-1512-11ee-8aa1-c0e434f79936.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>324</ymin>
+			<xmax>441</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
